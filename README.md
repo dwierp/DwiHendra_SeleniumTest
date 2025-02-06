@@ -75,16 +75,16 @@ This project involves creating an automated test suite for a CURA Healthcare Ser
 </dependencies>
 
 ### 2. Project Structure
-src
-├── main
-│   └── java
-│       └── com
-│           └── example
-│               └── tests
-│                   └── CURAHealthcareTest.java
-└── test
-    └── resources
-        └── allure.properties
+src<br>
+├── main<br>
+│   └── java<br>
+│       └── com<br>
+│           └── example<br>
+│               └── tests<br>
+│                   └── CURAHealthcareTest.java<br>
+└── test<br>
+    └── resources<br>
+        └── allure.properties<br>
 
 ### 3. Test Class (CURAHealthcareTest.java)
 import io.github.bonigarcia.wdm.WebDriverManager;
