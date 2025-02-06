@@ -1,0 +1,1 @@
+{"uuid":"bfc4c38b-7ed1-49eb-af65-a1380ffc4421","name":"sqawithdwi_SeleniumTest","children":["2c27fe07-c6cf-4813-85d0-c899064a7d82"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1738659612760,"stop":1738659616405}],"afters":[],"links":[],"start":1738659612717,"stop":1738659623059}
